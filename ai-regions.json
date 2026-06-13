@@ -1,0 +1,4 @@
+{
+  "_comment": "Storefronts (ISO 3166-1 alpha-3) where OpenAI's API isn't offered. The app reads this to disable note-sending AI features there. Edit + commit to update — no app release needed.",
+  "openai_unsupported": ["CHN", "PRK", "IRN", "RUS", "BLR", "CUB", "SYR"]
+}
